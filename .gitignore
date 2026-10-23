@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+*.csv
+*.log
+*.tmp
+.vscode/
+.idea/
+setup_repo.py
