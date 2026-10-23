@@ -1,4 +1,4 @@
-# Cortex XDR SecOps & Threat Hunting Playbooks
+# 🛡️ Cortex XDR SecOps & Threat Hunting Playbooks
 
 ![Platform](https://img.shields.io/badge/Platform-Cortex%20XDR-blue?style=for-the-badge&logo=paloaltonetworks)
 ![Query Language](https://img.shields.io/badge/Language-XQL-orange?style=for-the-badge)
@@ -7,7 +7,7 @@
 
 Welcome to my **Cortex XDR Security Operations Playbook** repository. This project documents real-world, production-tested **XQL (XDR Query Language)** investigations, rapid vulnerability exposure assessments, and behavioral post-exploitation threat hunts across hybrid enterprise environments (Linux, Windows, Docker, and Kubernetes/K3s).
 
-> **OPSEC & Privacy Notice:** All queries, hostnames, tags, and architectural references in this repository have been strictly sanitized and anonymized. No proprietary or sensitive organizational data is included.
+> 🔒 **OPSEC & Privacy Notice:** All queries, hostnames, tags, and architectural references in this repository have been strictly sanitized and anonymized. No proprietary or sensitive organizational data is included.
 
 ---
 
